@@ -38,7 +38,6 @@ C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\bin\Releas
 C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\bin\Release\netcoreapp2.1\AppService.pdb
 C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\bin\Release\netcoreapp2.1\AppService.Views.dll
 C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\bin\Release\netcoreapp2.1\AppService.Views.pdb
-C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.csprojAssemblyReference.cache
 C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.csproj.CoreCompileInputs.cache
 C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.RazorAssemblyInfo.cache
 C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.RazorAssemblyInfo.cs
