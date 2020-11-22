@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Arokkia\\Personal\\Projects\\Asp.Net Core\\AppService\\AppService\\AppService\\AppService.csproj",
+      "projectUniqueName": "C:\\Arokkia\\Personal\\Projects\\Asp.Net Core\\Azure AppService\\AppService\\AppService.csproj",
       "projectName": "AppService",
-      "projectPath": "C:\\Arokkia\\Personal\\Projects\\Asp.Net Core\\AppService\\AppService\\AppService\\AppService.csproj",
+      "projectPath": "C:\\Arokkia\\Personal\\Projects\\Asp.Net Core\\Azure AppService\\AppService\\AppService.csproj",
       "packagesPath": "C:\\Users\\arnadar\\.nuget\\packages\\",
-      "outputPath": "C:\\Arokkia\\Personal\\Projects\\Asp.Net Core\\AppService\\AppService\\AppService\\obj\\",
+      "outputPath": "C:\\Arokkia\\Personal\\Projects\\Asp.Net Core\\Azure AppService\\AppService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

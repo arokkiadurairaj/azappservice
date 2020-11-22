@@ -31,3 +31,36 @@ C:\Arokkia\Personal\Projects\Asp.Net Core\AppService\AppService\AppService\obj\R
 C:\Arokkia\Personal\Projects\Asp.Net Core\AppService\AppService\AppService\obj\Release\netcoreapp2.1\AppService.dll
 C:\Arokkia\Personal\Projects\Asp.Net Core\AppService\AppService\AppService\obj\Release\netcoreapp2.1\AppService.pdb
 C:\Arokkia\Personal\Projects\Asp.Net Core\AppService\AppService\AppService\obj\Release\netcoreapp2.1\AppService.csproj.CopyComplete
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\bin\Release\netcoreapp2.1\AppService.deps.json
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\bin\Release\netcoreapp2.1\AppService.runtimeconfig.json
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\bin\Release\netcoreapp2.1\AppService.runtimeconfig.dev.json
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\bin\Release\netcoreapp2.1\AppService.dll
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\bin\Release\netcoreapp2.1\AppService.pdb
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\bin\Release\netcoreapp2.1\AppService.Views.dll
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\bin\Release\netcoreapp2.1\AppService.Views.pdb
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.csprojAssemblyReference.cache
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.csproj.CoreCompileInputs.cache
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.RazorAssemblyInfo.cache
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.RazorAssemblyInfo.cs
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.AssemblyInfoInputs.cache
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.AssemblyInfo.cs
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.TagHelpers.input.cache
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.TagHelpers.output.cache
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.RazorCoreGenerate.cache
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.RazorTargetAssemblyInfo.cache
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.RazorTargetAssemblyInfo.cs
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.Views.pdb
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.dll
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.pdb
+C:\Arokkia\Personal\Projects\Asp.Net Core\Azure AppService\AppService\obj\Release\netcoreapp2.1\AppService.csproj.CopyComplete
